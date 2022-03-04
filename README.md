@@ -9,9 +9,9 @@
 * Golang
 * Mysql
 
-Steps of developing the software.
+## Steps of developing the software.
 
-[ General Analysis and Requirements Gathering ](https://github.com/tirahman105/m_manage/blob/main/requirement_analysis.md)
+* Step-1 [ General Analysis and Requirements Gathering ](https://github.com/tirahman105/m_manage/blob/main/requirement_analysis.md)
 *  Design
 * Coding
 * Testing
